@@ -1,3 +1,6 @@
+![Profile Views](https://komarev.com/ghpvc/?username=jonathankadiri0&color=green) <br/>
+
+
 ### Hi, I'm Jonathan! 👋
 
 💻 Aspiring Software Engineer studying at Maynooth University, Ireland.<br/>

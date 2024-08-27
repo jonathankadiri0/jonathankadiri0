@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Jonathan! 👋
 
-<!--
-**jonathankadiri0/jonathankadiri0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Engineer studying at Maynooth University, Ireland.<br/>
+💡 Passionate about leveraging technology and AI to solve complex financial problems.<br/>
+📈 Keen interest in FinTech, focusing on innovative solutions for the financial industry.<br/>
+🧠 Actively learning and developing skills in software development, data science, and machine learning.<br/>
+🚀 Working on projects that blend finance and technology, aiming to make financial systems more efficient and accessible.<br/>
+🎯 Committed to building a strong foundation in software engineering with a focus on real-world applications.<br/>
+🤝 Open to collaborating in teams and contributing to impactful projects.<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathankadiri0&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+
+ 
+

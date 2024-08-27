@@ -8,7 +8,7 @@
 🎯 Committed to building a strong foundation in software engineering with a focus on real-world applications.<br/>
 🤝 Open to collaborating in teams and contributing to impactful projects.<br/>
 
-Connect With me on:<br/>
+Connect with me on:<br/>
 
 <a href="https://www.linkedin.com/in/jonathan-kadiri-a06980243">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">

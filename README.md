@@ -15,7 +15,8 @@ Connect with me on:<br/>
 
 ---
 ### LeetCode Progress:
-[![LeetCode Stats](https://github-readme-leetcode.vercel.app/api?username=jonathankadiri17)](https://leetcode.com/u/jonathankadiri17/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/jonathankadiri17?theme=dark&font=Montserrat&ext=heatmap)](https://leetcode.com/jonathankadiri17/)
+
 
 
 ---

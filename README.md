@@ -14,12 +14,6 @@ Connect with me on:<br/>
 </a>
 
 ---
-### LeetCode Progress:
-[![LeetCode Stats](https://leetcard.jacoblin.cool/jonathankadiri17?theme=dark&font=Montserrat&ext=heatmap)](https://leetcode.com/jonathankadiri17/)
-
-
-
----
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 

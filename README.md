@@ -2,10 +2,10 @@
 
 ### Hi, I'm Jonathan! 👋
 
-💻 Aspiring Software Engineer studying at Maynooth University, Ireland.<br/>
-🧠 Passionate about technology, AI, and problem-solving.<br/>
-🚀 Actively learning and building projects in software development and machine learning.<br/>
-🎯 Focused on real-world applications and continuous growth.<br/>
+💻 Software Engineer and Computer Science & Software Engineering graduate from Maynooth University, Ireland.<br/>
+🤖 Focused on data, AI and machine learning, building systems that turn data into useful insight.<br/>
+🚀 Founder of [Clocked](https://clocked-ai.com), a live AI-powered chess intelligence platform.<br/>
+🎯 Interested in LLM applications, ML engineering, data pipelines and analytics.<br/>
 🤝 Open to collaboration and new opportunities.<br/>
 
 Connect with me on:<br/>
